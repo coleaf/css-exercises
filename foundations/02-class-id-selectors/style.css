@@ -1,0 +1,23 @@
+*{
+    margin: 0.3rem;
+}
+
+p{
+    background-color: pink;
+
+}
+div{
+    font-weight: 600;
+}
+.big{
+    font-size: 2em;
+    color: blue;
+    font-weight: ;
+}
+.bigger{
+    background-color: palevioletred;
+    font-size: 1.3em;
+}
+.green{
+    background-color: rgba(24, 240, 24, 0.644);
+}

@@ -1,0 +1,18 @@
+*{
+    margin: 0.5rem;
+    color: white;
+    font-size: 1.1em;
+}
+div{
+    background-color: red;
+    font-size: 1.9em;
+    font-weight: 700;
+}
+p{
+    background-color: rgb(23, 187, 23);
+    font-weight: 500;
+}
+button{
+    color: black;
+    background-color: yellow;
+}

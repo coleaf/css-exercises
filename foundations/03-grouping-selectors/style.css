@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.black{
+    background-color: black;
+    font-size: 1.8em;
+    color: white;
+    font-weight: 600;
+}
+.yellow{
+    background-color: yellow;
+    font-size: 1.8em;
+}
